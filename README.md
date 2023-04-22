@@ -1,0 +1,15 @@
+todo
+- confirm quit / new game prompts
+- message box / set_message methods
+- error messages for invalid moves
+- column labels
+- directions screen first
+- recognition when game is over
+- draw 3 functionality (bigger change)
+- score?
+- timer?
+- locally saved stats?
+- auto win (when all cards are face up)?
+- scrolling so max column size doesn't force huge screen
+- ongoing: clean up duplicated code
+- arrow pad navigation support? (might make column moves more intuitive)
