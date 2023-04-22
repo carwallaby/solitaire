@@ -1,4 +1,4 @@
-from curses import color_pair, error
+from curses import color_pair
 from .gamehandler import *
 
 
